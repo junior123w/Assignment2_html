@@ -31,3 +31,25 @@ header{
 body{
     margin: 0;
 }
+ul{
+    margin: 0;
+    padding: 20px 10px;
+   }
+   .head{
+       text-align: center;
+       margin: 2em;
+   }
+   body{
+       background-color: #009EFF;
+       color: #fff;
+   }
+   #homep{
+       line-height: 2em;
+       text-align: center;
+   }
+   h1, h2 , h3 {
+       font-family: 'Roboto', sans-serif;
+   }
+   p , li{
+       font-family: 'Merriweather Sans', sans-serif;
+   }
