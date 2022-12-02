@@ -13,4 +13,21 @@ a{
 a:hover{
     color: black;
 }
+.contact{
+    text-align: center;
+}
+#button{
+    background-color: black;
+    color: #fff;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+header{
+    background-image: url(./cyberpunk.jpg);
 
+    width: 100%;
+}
+body{
+    margin: 0;
+}
