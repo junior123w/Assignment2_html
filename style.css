@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans&family=Roboto&display=swap');
+#nav-ul{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+list-style: none;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover{
+    color: black;
+}
+
